@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coins", "Coins\Coins.csproj", "{FE2D0B54-7125-408D-89F8-19144ABA2E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coins.Tests", "Coins.Tests\Coins.Tests.csproj", "{C276923B-CA89-45C2-BD1A-8DE4084C1B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2D0B54-7125-408D-89F8-19144ABA2E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2D0B54-7125-408D-89F8-19144ABA2E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2D0B54-7125-408D-89F8-19144ABA2E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2D0B54-7125-408D-89F8-19144ABA2E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C276923B-CA89-45C2-BD1A-8DE4084C1B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C276923B-CA89-45C2-BD1A-8DE4084C1B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C276923B-CA89-45C2-BD1A-8DE4084C1B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C276923B-CA89-45C2-BD1A-8DE4084C1B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
