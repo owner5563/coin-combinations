@@ -6,12 +6,6 @@ namespace Coins.Tests
     [TestClass]
     public class CoinTest
     {
-        //[TestMethod]
-        //public string UserInput_CreateVariable_String()
-        //{
-        //    User testCoin = new User();
-        //    CollectionAssert.AreEqual(new string{ "60" }, testCoin.UserInput("60"));
-        //}
 
         [TestMethod]
         public void Quarters_CreateInteger_int()
